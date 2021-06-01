@@ -24,7 +24,7 @@ NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **
 
 #### 1. Morfología
  
-* Características:
+* Características
 
      * Sin aleta dorsal
      * Cuerpo delgado, forma torpedo
@@ -44,7 +44,7 @@ Los delfines lisos australes se encuentran sólo en aguas subantárticas templad
 en general parece estar limitado por la convergencia antártica. Su rango se extiende más al norte por
 la costa de los continentes, debido a las corrientes frías del hemisferio sur.
 
-![Mapa mundial del habitat del delfin](img/Mapa.png)
+![Mapa mundial del habitat del delfin](img/mapa-mundi.pn)
 
 En la costa de Chile, los delfines lisos australes están
 presentes durante todo el año y se ha descubierto que migran hacia el norte durante el invierno y la
@@ -75,12 +75,14 @@ Los delfines lisos fueron cazados durante el siglo XIX por la industria ballener
 
 #### REFERENCIAS INFOGRÁFICAS
 * [They are very close... and you can’t escape them](https://multimedia.scmp.com/culture/article/cockroaches/)- Analisis morfológico, ciclo de vida, sistema digestivo, habitat, evolución.
-* [I'm an inline-style link](https://www.google.com)
-* [I'm an inline-style link](https://www.google.com)
+* [Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html?src=arcade)- Inspiración caracteristicas morfológicas, evolucion de tamaño (gráfico comparativo), funcionamiento sistema central.
+* [Boars, snakes and black kites: where to spot wild animals in Hong Kong](https://multimedia.scmp.com/infographics/lifestyle/article/3031527/hong-kong-great-outdoors/index.html?src=arcade)- Estado de vulneración, enmarcación sistema natural.
+* [Australian fires: Understanding the intensity and global impact](https://multimedia.scmp.com/infographics/news/world/article/3046510/australian-fires/index.html)- Despliegue horizontal de infografia.
+
+
 
 #### REFERENCIAS
-[Ficha de antecedentes de especie](http://www.mma.gob.cl/clasificacionespecies/fichas13proceso/fichas_PAC_13RCE/Lissodelphis_peronii_PAC_13RCE.pdf)
-[Inventario Nacional de especies Chilenas](http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/ficha_indepen.aspx?EspecieId=3933&Version=1)
-[Centro de conservación Cetacea](https://ccc-chile.org/cetaceos/delfin-liso/)
-[Anatomía de los delfines](https://www-sciencedirect-com.pucdechile.idm.oclc.org/book/9780124072299/anatomy-of-dolphins)
-
+* [Ficha de antecedentes de especie](http://www.mma.gob.cl/clasificacionespecies/fichas13proceso/fichas_PAC_13RCE/Lissodelphis_peronii_PAC_13RCE.pdf)
+* [Inventario Nacional de especies Chilenas](http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/ficha_indepen.aspx?EspecieId=3933&Version=1)
+* [Centro de conservación Cetacea](https://ccc-chile.org/cetaceos/delfin-liso/)
+* [Anatomía de los delfines](https://www-sciencedirect-com.pucdechile.idm.oclc.org/book/9780124072299/anatomy-of-dolphins)- 
