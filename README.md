@@ -81,6 +81,8 @@ Los delfines lisos fueron cazados durante el siglo XIX por la industria ballener
 <img src="img/evolucion-tamaño.png" alt="linea del tiempo con siluetas comparando tamaños" width="500"  high="auto"/>
 <img src="img/sistema-central.png" alt="ilustracion de Godzilla identificando su sistema central y organos " width="500"  high="auto"/>
 * [Boars, snakes and black kites: where to spot wild animals in Hong Kong](https://multimedia.scmp.com/infographics/lifestyle/article/3031527/hong-kong-great-outdoors/index.html?src=arcade)- Estado de vulneración, enmarcación sistema natural.
+<img src="img/sistema-natural-1.png" alt="ilustración sistema de animales en su habitad y descropción de dónde pueden ser vistos" width="500"  high="auto"/>
+<img src="img/sistema-natural-2.png" alt="continuación de ilustración sistema de animales en su habitad y descropción de dónde pueden ser vistos" width="500"  high="auto"/>
 * [Australian fires: Understanding the intensity and global impact](https://multimedia.scmp.com/infographics/news/world/article/3046510/australian-fires/index.html)- Despliegue horizontal de infografia.
 * [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html)- Estilo gráfico, uso de color,uso de gráficos mixtos.
 
