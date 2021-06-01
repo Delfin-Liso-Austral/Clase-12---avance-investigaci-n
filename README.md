@@ -11,7 +11,7 @@ Martinez, Trinidad   : Programar - ilustración
 Soto, Cecy          : Ilustración - investigación - programación
 ~~~
 
-## TEMA
+## TEMA:
 
 NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **Delfín liso austral o Tunina sin aleta**.
                
@@ -22,16 +22,16 @@ NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **
  
 <img src="img/d_liso_grande.png" alt="ilustración delfín " width="500"  high="auto"/>
 
-#### 1. Morfología
+#### 1. Morfología:
  
-* Características
+* Características:
 
-     * Sin aleta dorsal
-     * Cuerpo delgado, forma torpedo
-     * Negro con vientre blanco (división clara)
-     * Rostro corto y blanco
-     * Natación con saltos
-     * Cuerpo sale del agua con un ángulo bajo
+     * Sin aleta dorsal.
+     * Cuerpo delgado, forma torpedo.
+     * Negro con vientre blanco (división clara).
+     * Rostro corto y blanco.
+     * Natación con saltos.
+     * Cuerpo sale del agua con un ángulo bajo.
      
 * Tamaño:
      * Tamaño Adulto: 1.8 - 2.9 m (60 - 100 kg.)
@@ -44,7 +44,7 @@ Los delfines lisos australes se encuentran sólo en aguas subantárticas templad
 en general parece estar limitado por la convergencia antártica. Su rango se extiende más al norte por
 la costa de los continentes, debido a las corrientes frías del hemisferio sur.
 
-![Mapa mundial del habitat del delfin](img/mapa-mundi.pn)
+![Mapa mundial del habitat del delfin](img/Mapa.png)
 
 En la costa de Chile, los delfines lisos australes están
 presentes durante todo el año y se ha descubierto que migran hacia el norte durante el invierno y la
@@ -56,18 +56,18 @@ Lipsky 2008). En Chile, existen registros entre la II y V Región y entre la X y
 En el mapa se observan puntos rojos, los cuales representan avistamientos del delfin liso del sur, en zonas chilenas.
 
 
- #### 3. Conducta 
+ #### 3. Conducta: 
 Esta especie nada en grupos de dos a 1.000 individuos. Se asocian con otros cetáceos pequeños. Se desplazan dando grandes saltos, frecuentemente en parejas, a ras de la superficie del agua. Realizan "bowriding".
 
 > _**Bow Riding** es cuando los delfines surfean en la ola creada por barcos y barcos. A medida que los barcos se mueven por el agua, crean una ola. Los delfines son impulsados ​​hacia adelante por la ola y, a menudo, giran y giran e incluso nadan boca abajo mientras se deslizan por el agua._
 
- #### 4. Alimentación 
+ #### 4. Alimentación:
 Esta especie de delfín se alimenta principalmente de peces y calamares. 
 
- #### 5. Amenazas
+ #### 5. Amenazas:
 Los delfines lisos fueron cazados durante el siglo XIX por la industria ballenera. Algunos continúan siendo cazados en América del Sur.
 
- #### 6. Datos freaks de los delfines
+ #### 6. Datos freaks de los delfines:
  - Se reconocen frente al espejo, lo cual los hace ser concientes de sí mismos.
  - Tienen la inteligencia de un niño de 10 años
  - Nunca duerme por completo, siempre mantienen un ojo abierto y alternan los hemisferios del cerebro para descansar.
@@ -75,14 +75,12 @@ Los delfines lisos fueron cazados durante el siglo XIX por la industria ballener
 
 #### REFERENCIAS INFOGRÁFICAS
 * [They are very close... and you can’t escape them](https://multimedia.scmp.com/culture/article/cockroaches/)- Analisis morfológico, ciclo de vida, sistema digestivo, habitat, evolución.
-* [Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html?src=arcade)- Inspiración caracteristicas morfológicas, evolucion de tamaño (gráfico comparativo), funcionamiento sistema central.
-* [Boars, snakes and black kites: where to spot wild animals in Hong Kong](https://multimedia.scmp.com/infographics/lifestyle/article/3031527/hong-kong-great-outdoors/index.html?src=arcade)- Estado de vulneración, enmarcación sistema natural.
-* [Australian fires: Understanding the intensity and global impact](https://multimedia.scmp.com/infographics/news/world/article/3046510/australian-fires/index.html)- Despliegue horizontal de infografia.
-
-
+* [I'm an inline-style link](https://www.google.com)
+* [I'm an inline-style link](https://www.google.com)
 
 #### REFERENCIAS
-* [Ficha de antecedentes de especie](http://www.mma.gob.cl/clasificacionespecies/fichas13proceso/fichas_PAC_13RCE/Lissodelphis_peronii_PAC_13RCE.pdf)
-* [Inventario Nacional de especies Chilenas](http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/ficha_indepen.aspx?EspecieId=3933&Version=1)
-* [Centro de conservación Cetacea](https://ccc-chile.org/cetaceos/delfin-liso/)
-* [Anatomía de los delfines](https://www-sciencedirect-com.pucdechile.idm.oclc.org/book/9780124072299/anatomy-of-dolphins)- 
+[Ficha de antecedentes de especie](http://www.mma.gob.cl/clasificacionespecies/fichas13proceso/fichas_PAC_13RCE/Lissodelphis_peronii_PAC_13RCE.pdf)
+[Inventario Nacional de especies Chilenas](http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/ficha_indepen.aspx?EspecieId=3933&Version=1)
+[Centro de conservación Cetacea](https://ccc-chile.org/cetaceos/delfin-liso/)
+[Anatomía de los delfines](https://www-sciencedirect-com.pucdechile.idm.oclc.org/book/9780124072299/anatomy-of-dolphins)
+
