@@ -75,6 +75,7 @@ Los delfines lisos fueron cazados durante el siglo XIX por la industria ballener
 
 #### REFERENCIAS INFOGRÁFICAS
 * [They are very close... and you can’t escape them](https://multimedia.scmp.com/culture/article/cockroaches/)- Analisis morfológico, ciclo de vida, sistema digestivo, habitat, evolución.
+<img src="img/d_liso_grande.png" alt="ilustración delfín " width="500"  high="auto"/>
 * [Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html?src=arcade)- Inspiración caracteristicas morfológicas, evolucion de tamaño (gráfico comparativo), funcionamiento sistema central.
 * [Boars, snakes and black kites: where to spot wild animals in Hong Kong](https://multimedia.scmp.com/infographics/lifestyle/article/3031527/hong-kong-great-outdoors/index.html?src=arcade)- Estado de vulneración, enmarcación sistema natural.
 * [Australian fires: Understanding the intensity and global impact](https://multimedia.scmp.com/infographics/news/world/article/3046510/australian-fires/index.html)- Despliegue horizontal de infografia.
