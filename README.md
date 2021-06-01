@@ -24,7 +24,7 @@ NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **
 
 #### 1. Morfología
  
-* Características
+* Características:
 
      * Sin aleta dorsal
      * Cuerpo delgado, forma torpedo
