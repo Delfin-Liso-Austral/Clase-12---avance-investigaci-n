@@ -78,6 +78,8 @@ Los delfines lisos fueron cazados durante el siglo XIX por la industria ballener
 <img src="img/Analisis-morfologico-2.png" alt="ilustración anatómica de una cucharacha " width="500"  high="auto"/>
 <img src="img/evolucion.png" alt="linea del tiempo de sobrevivencia de la cucharacha " width="500"  high="auto"/>
 * [Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html?src=arcade)- Inspiración caracteristicas morfológicas, evolucion de tamaño (gráfico comparativo), funcionamiento sistema central.
+<img src="img/evolucion-tamaño.png" alt="linea del tiempo con siluetas comparando tamaños" width="500"  high="auto"/>
+<img src="img/sistema-central.png" alt="ilustracion de Godzilla identificando su sistema central y organos " width="500"  high="auto"/>
 * [Boars, snakes and black kites: where to spot wild animals in Hong Kong](https://multimedia.scmp.com/infographics/lifestyle/article/3031527/hong-kong-great-outdoors/index.html?src=arcade)- Estado de vulneración, enmarcación sistema natural.
 * [Australian fires: Understanding the intensity and global impact](https://multimedia.scmp.com/infographics/news/world/article/3046510/australian-fires/index.html)- Despliegue horizontal de infografia.
 * [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html)- Estilo gráfico, uso de color,uso de gráficos mixtos.
