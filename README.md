@@ -73,6 +73,11 @@ Los delfines lisos fueron cazados durante el siglo XIX por la industria ballener
  - Nunca duerme por completo, siempre mantienen un ojo abierto y alternan los hemisferios del cerebro para descansar.
 
 
+#### ESTILOS GRÁFICOS
+<img src="img/Analisis-morfologico-2.png" alt="ilustración anatómica de una cucharacha " width="500"  high="auto"/>
+<img src="img/evolucion.png" alt="linea del tiempo de sobrevivencia de la cucharacha " width="500"  high="auto"/>
+
+
 #### REFERENCIAS INFOGRÁFICAS
 * [They are very close... and you can’t escape them](https://multimedia.scmp.com/culture/article/cockroaches/)- Analisis morfológico, ciclo de vida, sistema digestivo, habitat, evolución.
 <img src="img/Analisis-morfologico-2.png" alt="ilustración anatómica de una cucharacha " width="500"  high="auto"/>
