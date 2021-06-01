@@ -67,6 +67,12 @@ Esta especie de delfín se alimenta principalmente de peces y calamares.
  #### 5. Amenazas
 Los delfines lisos fueron cazados durante el siglo XIX por la industria ballenera. Algunos continúan siendo cazados en América del Sur.
 
+ #### 6. Datos freaks de los delfines
+ - Se reconocen frente al espejo, lo cual los hace ser concientes de sí mismos.
+ - Tienen la inteligencia de un niño de 10 años
+ - Nunca duerme por completo, siempre mantienen un ojo abierto y alternan los hemisferios del cerebro para descansar.
+
+
 #### REFERENCIAS INFOGRÁFICAS
 * [They are very close... and you can’t escape them](https://multimedia.scmp.com/culture/article/cockroaches/)- Analisis morfológico, ciclo de vida, sistema digestivo, habitat, evolución.
 * [I'm an inline-style link](https://www.google.com)
