@@ -74,7 +74,10 @@ Los delfines lisos fueron cazados durante el siglo XIX por la industria ballener
 
 
 #### ESTILOS GRÁFICOS
+ - Propuesta de tipografía
 <img src="img/Analisis-morfologico-2.png" alt="ilustración anatómica de una cucharacha " width="500"  high="auto"/>
+
+ - Propuesta de paleta cromática
 <img src="img/evolucion.png" alt="linea del tiempo de sobrevivencia de la cucharacha " width="500"  high="auto"/>
 
 
