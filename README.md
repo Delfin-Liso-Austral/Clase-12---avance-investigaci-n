@@ -8,7 +8,7 @@ Echeverria, Gabriela : Investigación - poco ilustración
 Hrepic, Paula        : Ilustración - Investigación - Manualidades
 Jimenez, Eliana      : Ilustración - Investigación
 Martinez, Trinidad   : Programar - ilustración
-Soto, Cecy          : Ilustración - investigación - programación
+Soto, Cecy           : Ilustración - investigación - programación
 ~~~
 
 ## TEMA:
@@ -37,7 +37,7 @@ NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **
      * Tamaño Adulto: 1.8 - 2.9 m (60 - 100 kg.)
      * Tamaño Cria: 80 - 100 cm.
      
-<img src="img/tamaño.png" alt="Comparación tamaños " width="500" high="auto"/>
+<img src="img/tamaño.png" alt="Comparación tamaños " width="500"/>
 
  #### 2. Hábitat 
 Los delfines lisos australes se encuentran sólo en aguas subantárticas templadas frías del hemisferio sur, en su mayoría entre los 30° S y 65° S. El límite sur
