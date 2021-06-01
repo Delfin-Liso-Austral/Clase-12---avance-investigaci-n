@@ -80,13 +80,13 @@ Los delfines lisos fueron cazados durante el siglo XIX por la industria ballener
 Ambas propuestas tienen diferentes pesos de sus lineas, lo cual hace un contraste entre el blanco y negro, similar a lo que sucede con esos mismos colores en el cuerpo del Delfín Liso Austral 
 
  - Propuesta de tipografía 1: Didot
-
 Tipografía creada en 1783 por Alexey Kryukov, es una tipografía romana moderna.
+
 <img src="img/tipografia-didot.jpeg" alt="tipografia Didot " width="500"  high="auto"/>
 
  - Propuesta de tipografía 2: Recoleta
-
 Tipografía creada en 2018 por Jorge Cisterna.
+
 <img src="img/recoleta.png" alt="tipografia Recoleta título " width="500"  high="auto"/>
 <img src="img/recoleta-2.png" alt="tipografia Recoleta variables" width="500"  high="auto"/>
 
