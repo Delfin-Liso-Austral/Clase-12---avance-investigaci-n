@@ -84,7 +84,8 @@ Ambas propuestas tienen diferentes pesos de sus lineas, lo cual hace un contrast
 <img src="img/recoleta-2.png" alt="tipografia Recoleta variables" width="500"  high="auto"/>
 
  - Propuesta de paleta cromática
-<img src="img/evolucion.png" alt="linea del tiempo de sobrevivencia de la cucharacha " width="500"  high="auto"/>
+Rescatar el blanco (crema) y negro del Delfín Liso Austral. Para generar contraste colores azulados que represen el contexto marítimo del animal.
+<img src="img/paleta-cromatica.png" alt="linea del tiempo de sobrevivencia de la cucharacha " width="500"  high="auto"/>
 
 
 #### REFERENCIAS INFOGRÁFICAS
