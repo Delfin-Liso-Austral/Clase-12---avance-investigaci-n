@@ -21,6 +21,7 @@ NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **
 | **Clase:**     |  *Mammalia*      |   **Género:** |  *Lissodelphis*    |
  
 <img src="img/d_liso_grande.png" alt="ilustración delfín " width="500"  high="auto"/>
+
 #### 1. Morfología
  
 * Características
