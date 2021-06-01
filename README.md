@@ -62,7 +62,7 @@ Esta especie nada en grupos de dos a 1.000 individuos. Se asocian con otros cet�
 > _**Bow Riding** es cuando los delfines surfean en la ola creada por barcos y barcos. A medida que los barcos se mueven por el agua, crean una ola. Los delfines son impulsados ​​hacia adelante por la ola y, a menudo, giran y giran e incluso nadan boca abajo mientras se deslizan por el agua._
 
  #### 4. Alimentación 
-Peces y calamares. 
+Esta especie de delfín se alimenta principalmente de peces y calamares. 
 
  #### 5. Amenazas
 Los delfines lisos fueron cazados durante el siglo XIX por la industria ballenera. Algunos continúan siendo cazados en América del Sur.
