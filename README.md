@@ -86,6 +86,8 @@ Los delfines lisos fueron cazados durante el siglo XIX por la industria ballener
 * [Australian fires: Understanding the intensity and global impact](https://multimedia.scmp.com/infographics/news/world/article/3046510/australian-fires/index.html)- Despliegue horizontal de infografia.
 <img src="img/despliegue-horizontal.png" alt="ilustraciones de información diagramadas horizontalmente " width="800"  high="auto"/>
 * [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html)- Estilo gráfico, uso de color,uso de gráficos mixtos.
+<img src="img/Analisis-morfologico-2.png" alt="ilustración anatómica de una cucharacha " width="500"  high="auto"/>
+<img src="img/evolucion.png" alt="linea del tiempo de sobrevivencia de la cucharacha " width="500"  high="auto"/>
 
 #### REFERENCIAS
 * [Ficha de antecedentes de especie](http://www.mma.gob.cl/clasificacionespecies/fichas13proceso/fichas_PAC_13RCE/Lissodelphis_peronii_PAC_13RCE.pdf)
