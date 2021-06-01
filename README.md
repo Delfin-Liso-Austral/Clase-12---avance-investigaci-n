@@ -37,7 +37,7 @@ NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **
      * Tamaño Adulto: 1.8 - 2.9 m (60 - 100 kg.)
      * Tamaño Cria: 80 - 100 cm.
      
-<img src="img/tamaño.png" alt="Comparación tamaños" width="500"/>
+<img src="img/tamaño.png" alt="Comparación tamaños " width="500" high="auto"/>
 
  #### 2. Hábitat 
 Los delfines lisos australes se encuentran sólo en aguas subantárticas templadas frías del hemisferio sur, en su mayoría entre los 30° S y 65° S. El límite sur
@@ -78,6 +78,7 @@ Los delfines lisos fueron cazados durante el siglo XIX por la industria ballener
 * [Godzilla: evolution of a monster](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html?src=arcade)- Inspiración caracteristicas morfológicas, evolucion de tamaño (gráfico comparativo), funcionamiento sistema central.
 * [Boars, snakes and black kites: where to spot wild animals in Hong Kong](https://multimedia.scmp.com/infographics/lifestyle/article/3031527/hong-kong-great-outdoors/index.html?src=arcade)- Estado de vulneración, enmarcación sistema natural.
 * [Australian fires: Understanding the intensity and global impact](https://multimedia.scmp.com/infographics/news/world/article/3046510/australian-fires/index.html)- Despliegue horizontal de infografia.
+* [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html)- Estilo gráfico, uso de color,uso de gráficos mixtos.
 
 #### REFERENCIAS
 * [Ficha de antecedentes de especie](http://www.mma.gob.cl/clasificacionespecies/fichas13proceso/fichas_PAC_13RCE/Lissodelphis_peronii_PAC_13RCE.pdf)
