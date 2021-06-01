@@ -91,6 +91,7 @@ Tipografía creada en 2018 por Jorge Cisterna.
 <img src="img/recoleta-2.png" alt="tipografia Recoleta variables" width="500"  high="auto"/>
 
 *PROPUESTA PALETA CROMÁTICA
+
 Rescatar el blanco (crema) y negro del Delfín Liso Austral. Para generar contraste colores azulados que represen el contexto marítimo del animal.
 
 <img src="img/paleta-cromatica.png" alt="linea del tiempo de sobrevivencia de la cucharacha " width="500"  high="auto"/>
