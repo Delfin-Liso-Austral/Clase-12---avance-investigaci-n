@@ -4,6 +4,7 @@ DELFÍN LISO AUSTRAL
 ~~~
 Integrantes / Roles
 
+Miro: https://miro.com/app/board/o9J_lAF-rWs=/
 Echeverria, Gabriela : Investigación - poco ilustración
 Hrepic, Paula        : Ilustración - Investigación - Manualidades
 Jimenez, Eliana      : Ilustración - Investigación
